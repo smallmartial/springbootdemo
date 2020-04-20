@@ -26,3 +26,5 @@ hs_err_pid*
 /.idea/
 /sping-boot-quartz/target/classes/application.yml
 /springbootredis/target/classes/application.properties
+/xxl-job-admin/target/classes/
+/springboot-xxl-job-executor-sample/target/classes/
